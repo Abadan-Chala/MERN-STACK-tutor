@@ -15,8 +15,4 @@ This repository is a tutorial for building applications using the MERN stack (Mo
 - Node.js
 - MongoDB
 
-### Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Abadan-Chala/MERN-STACK-tutor.git
