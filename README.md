@@ -8,11 +8,4 @@ This repository is a tutorial for building applications using the MERN stack (Mo
 - **Frontend**: React
 - **Database**: MongoDB
 
-## Setup
-
-### Prerequisites
-
-- Node.js
-- MongoDB
-
 
